@@ -108,21 +108,6 @@
 
 ---
 
-## 💼 Currently Working On
-
-<div align="center">
-
-- 🔨 Building scalable full-stack applications
-- 📚 Mastering advanced React patterns
-- 🎯 Enhancing problem-solving skills
-- 💼 Seeking opportunities to grow professionally
-
-<img src="https://media.giphy.com/media/3o7abldb0xntaBCKYQ/giphy.gif" width="300" alt="Working Animation"/>
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -133,7 +118,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifnishat19548@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/arif_4651)
 
-<img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="300" alt="Contact Animation"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9xbGdsaDN4ajVybHE2Z3Q4azlmcmo1ZmRtcmp6NGJleTE4bTU0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kxUc3bdlKbe8v2CQNc/giphy.gif" width="300" alt="Contact Animation"/>
 
 </div>
 
