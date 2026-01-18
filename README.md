@@ -1,12 +1,13 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Md.+Ariful+Islam;Full+Stack+Web+Developer;Fresh+Graduate;Passionate+Coder+💻" alt="Typing SVG" />
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Apps" alt="Typing SVG" />
 
-<!-- Animated GIF -->
-<img src="https://raw.githubusercontent.com/arif-4651/arif-4651/main/gifs/coder.gif" width="400" height="300" alt="Coding Animation" />
+<!-- Animated Developer GIF -->
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="100" height="100"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Developer Animation"/>
 
-### 🚀 Full Stack Web Developer | Fresh Graduate | Passionate Coder
+### 🚀 Full Stack Web Developer | MERN Stack | Fresh Graduate
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-website-mu-eight-56.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariful-islam-a999682b0/)
@@ -14,36 +15,33 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifnishat19548@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/arif_4651)
 
-<!-- Animated Snake Game -->
-![Snake animation](https://github.com/arif-4651/arif-4651/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 ---
 
-## 🎯 About Me
+## 👨‍💻 About Me
 
-```javascript
-const ariful = {
-  name: "Md. Ariful Islam",
-  location: "Dhaka, Bangladesh",
-  education: "CSE Graduate from Daffodil International University",
-  status: "Fresh Graduate | Looking for Opportunities",
-  passion: ["Web Development", "Full Stack Development", "Problem Solving"],
-  currentlyLearning: ["Advanced React", "Node.js", "Database Design"],
-  funFact: "I love building projects that solve real-world problems",
-  portfolio: "https://portfolio-website-mu-eight-56.vercel.app/"
-};
-```
-
-<!-- Animated Coding GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
+
 </div>
+
+**I'm a passionate Full Stack Web Developer** specializing in the MERN stack, with a strong foundation in building scalable web applications. As a fresh Computer Science and Engineering graduate from Daffodil International University, I'm eager to apply my technical skills and contribute to innovative projects.
+
+- 🎓 **Education:** CSE Graduate from Daffodil International University (DIU)
+- 📍 **Location:** Dhaka, Bangladesh
+- 💼 **Status:** Fresh Graduate | Seeking Opportunities
+- 🔥 **Currently Learning:** Advanced React, Node.js, Database Design
+- 💡 **Fun Fact:** I love building projects that solve real-world problems
+
+**Portfolio:** [portfolio-website-mu-eight-56.vercel.app](https://portfolio-website-mu-eight-56.vercel.app/)
 
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -59,15 +57,16 @@ const ariful = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Others
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+</div>
+
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -85,46 +84,21 @@ const ariful = {
 
 <div align="center">
 
-### 🍽️ Restaurant Management System
-**Full-stack restaurant management with order & table management**
-[![Live](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel&logoColor=white)](https://restaurant-management-system-mauve.vercel.app/)
-[![Code](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arif-4651/Restaurant-Management-System)
-
-### 🍕 Cuisine Restaurant
-**Multi-cuisine restaurant website with booking system**
-[![Live](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel&logoColor=white)](https://cuisine-gules.vercel.app/)
-[![Code](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arif-4651/Cuisine)
-
-### 🛒 DNK E-Commerce
-**Modern e-commerce platform with shopping cart**
-[![Live](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel&logoColor=white)](https://dnk-three.vercel.app/)
-[![Code](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arif-4651/DNK)
-
-### 💬 Realtime Chat App
-**Real-time messaging application**
-[![Live](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel&logoColor=white)](https://realtime-chat-app-sigma-rouge.vercel.app/)
-[![Code](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arif-4651/Realtime-Chat-App)
-
-### 📚 EduLink HUB
-**Educational platform for students**
-[![Live](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel&logoColor=white)](https://edu-link-hub.vercel.app/)
-[![Code](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arif-4651/EduLink-HUB)
-
-### 🛍️ E-Shop
-**E-commerce with featured products**
-[![Live](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel&logoColor=white)](https://e-shop-one-gold.vercel.app/)
-[![Code](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arif-4651/E-Shop)
-
-### 🎓 10 Min School
-**HSC preparation platform**
-[![Live](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel&logoColor=white)](https://10-ms-rho.vercel.app/)
-[![Code](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arif-4651/10MS)
+| Project | Description | Live | Code |
+|---------|-------------|------|------|
+| 🍽️ **Restaurant Management** | Full-stack restaurant system with order & table management | [Demo](https://restaurant-management-system-mauve.vercel.app/) | [GitHub](https://github.com/arif-4651/Restaurant-Management-System) |
+| 🍕 **Cuisine Restaurant** | Multi-cuisine website with booking system | [Demo](https://cuisine-gules.vercel.app/) | [GitHub](https://github.com/arif-4651/Cuisine) |
+| 🛒 **DNK E-Commerce** | Modern e-commerce platform | [Demo](https://dnk-three.vercel.app/) | [GitHub](https://github.com/arif-4651/DNK) |
+| 💬 **Realtime Chat** | Real-time messaging application | [Demo](https://realtime-chat-app-sigma-rouge.vercel.app/) | [GitHub](https://github.com/arif-4651/Realtime-Chat-App) |
+| 📚 **EduLink HUB** | Educational platform for students | [Demo](https://edu-link-hub.vercel.app/) | [GitHub](https://github.com/arif-4651/EduLink-HUB) |
+| 🛍️ **E-Shop** | E-commerce with shopping cart | [Demo](https://e-shop-one-gold.vercel.app/) | [GitHub](https://github.com/arif-4651/E-Shop) |
+| 🎓 **10 Min School** | HSC preparation platform | [Demo](https://10-ms-rho.vercel.app/) | [GitHub](https://github.com/arif-4651/10MS) |
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Activity
 
 <div align="center">
 
@@ -134,50 +108,31 @@ const ariful = {
 
 ---
 
-## 🎮 Animated Visualizations
+## 💼 Currently Working On
 
 <div align="center">
 
-<!-- Animated Coding Cartoon -->
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Cartoon"/>
+- 🔨 Building scalable full-stack applications
+- 📚 Mastering advanced React patterns
+- 🎯 Enhancing problem-solving skills
+- 💼 Seeking opportunities to grow professionally
 
-<!-- Animated Developer -->
-<img src="https://media.giphy.com/media/26n7b7PjSOZ2wG2fi/giphy.gif" width="400" alt="Developer Animation"/>
-
-<!-- Animated Computer -->
-<img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="400" alt="Computer Animation"/>
-
-</div>
-
----
-
-## 💡 What I'm Working On
-
-<div align="center">
-
-- 🔨 Building full-stack web applications
-- 📚 Learning advanced React patterns
-- 🎯 Improving problem-solving skills
-- 💼 Looking for opportunities to grow
-
-<!-- Animated Working GIF -->
 <img src="https://media.giphy.com/media/3o7abldb0xntaBCKYQ/giphy.gif" width="300" alt="Working Animation"/>
 
 </div>
 
 ---
 
-## 📫 Get In Touch
+## 📫 Connect With Me
 
 <div align="center">
 
-- 📧 **Email:** arifnishat19548@gmail.com
-- 💼 **LinkedIn:** [Ariful Islam](https://www.linkedin.com/in/ariful-islam-a999682b0/)
-- 🐙 **GitHub:** [@arif-4651](https://github.com/arif-4651)
-- 🐦 **Twitter:** [@arif_4651](https://x.com/arif_4651)
-- 🌐 **Portfolio:** [View Portfolio](https://portfolio-website-mu-eight-56.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-website-mu-eight-56.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariful-islam-a999682b0/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arif-4651)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifnishat19548@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/arif_4651)
 
-<!-- Animated Contact GIF -->
 <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="300" alt="Contact Animation"/>
 
 </div>
@@ -186,19 +141,11 @@ const ariful = {
 
 <div align="center">
 
-### ⚡ Fun Fact
-> "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-<!-- Animated Quote -->
-<img src="https://media.giphy.com/media/3o7aD2sa2K5F3pXhva/giphy.gif" width="300" alt="Quote Animation"/>
-
-**Thanks for visiting! 😊**
+### ⚡ Quote
+> "The only way to do great work is to love what you do." - Steve Jobs
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arif-4651&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 
-<!-- Animated Footer -->
-<img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="200" alt="Footer Animation"/>
-
-⭐️ From [arif-4651](https://github.com/arif-4651)
+⭐️ **Made with ❤️ by [Md. Ariful Islam](https://github.com/arif-4651)**
 
 </div>
